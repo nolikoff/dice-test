@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "manifest_version": 1,
   "author": "Roman",
-  "homepage_url": "https://extensions.owlbear.rodeo/dice",
+  "homepage_url": "https://github.com/nolikoff/dice-test",
   "icon": "http://raw.githubusercontent.com/nolikoff/dice-test/refs/heads/main/public/logo.png",
   "description": "Beautiful 3D dice extension for d20 based systems",
   "action": {
