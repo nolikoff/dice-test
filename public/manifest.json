@@ -4,14 +4,14 @@
   "manifest_version": 1,
   "author": "Roman",
   "homepage_url": "https://extensions.owlbear.rodeo/dice",
-  "icon": "/logo.png",
+  "icon": "http://raw.githubusercontent.com/nolikoff/dice-test/refs/heads/main/public/logo.png",
   "description": "Beautiful 3D dice extension for d20 based systems",
   "action": {
     "title": "Dice Test",
-    "icon": "/icon.svg",
+    "icon": "https://raw.githubusercontent.com/nolikoff/dice-test/7b18f624a679e686f8330cdb4e04257f60306720/public/icon.svg",
     "popover": "/",
     "height": 700,
     "width": 375
   },
-  "background_url": "/background.html"
+  "background_url": "https://raw.githubusercontent.com/nolikoff/dice-test/refs/heads/main/background.html"
 }
