@@ -5,7 +5,7 @@
   "author": "Roman",
   "homepage_url": "https://github.com/nolikoff/dices",
   "icon": "/logo.png",
-  "description": "Beautiful 3D dice extension for d20 based systems.",
+  "description": "Beautiful 3D dice extension for d20 based systems (based on Owlbear Rodeo Dice).",
   "action": {
     "title": "Colorful Dices",
     "icon": "/icon.svg",
