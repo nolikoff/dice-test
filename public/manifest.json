@@ -4,14 +4,14 @@
   "manifest_version": 1,
   "author": "Roman",
   "homepage_url": "https://github.com/nolikoff/owlbear-rodeo-colorful-dices",
-  "icon": "https://raw.githubusercontent.com/nolikoff/owlbear-rodeo-colorful-dices/refs/heads/main/public/logo.png",
+  "icon": "/logo.png",
   "description": "Beautiful 3D dice extension for d20 based systems (based on Owlbear Rodeo Dice).",
   "action": {
     "title": "Colorful Dices",
-    "icon": "https://raw.githubusercontent.com/nolikoff/owlbear-rodeo-colorful-dices/13f22a6dcf4353436e8e165df52e3eec8328b2ec/public/icon.svg",
+    "icon": "/icon.svg",
     "popover": "/",
     "height": 700,
     "width": 375
   },
-  "background_url": "https://raw.githubusercontent.com/nolikoff/owlbear-rodeo-colorful-dices/refs/heads/main/background.html"
+  "background_url": "/background.html"
 }
