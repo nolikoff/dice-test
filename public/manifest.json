@@ -5,7 +5,7 @@
   "author": "Roman",
   "homepage_url": "https://github.com/nolikoff/dice-test",
   "icon": "http://raw.githubusercontent.com/nolikoff/dice-test/refs/heads/main/public/logo.png",
-  "description": "Beautiful 3D dice extension for d20 based systems",
+  "description": "Test. Beautiful 3D dice extension for d20 based systems",
   "action": {
     "title": "Dice Test",
     "icon": "https://raw.githubusercontent.com/nolikoff/dice-test/7b18f624a679e686f8330cdb4e04257f60306720/public/icon.svg",
