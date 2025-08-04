@@ -6,7 +6,7 @@ import normal from "./normal.jpg";
 import { gltfTexture } from "../../helpers/gltfTexture";
 
 export function GalaxyMaterial(
-  props: JSX.IntrinsicElements["meshPhysicalMaterial"]
+  props: JSX.IntrinsicElements["meshStandardMaterial"]
 ) {
   const [albedoMap, ormMap, normalMap] = useTexture(
     [albedo, orm, normal],
@@ -14,14 +14,12 @@ export function GalaxyMaterial(
   );
 
   return (
-    <meshPhysicalMaterial
+    <meshStandardMaterial
       map={albedoMap}
       aoMap={ormMap}
-      metalnessMap={ormMap}
       roughnessMap={ormMap}
+      metalnessMap={ormMap}
       normalMap={normalMap}
-      clearcoat={1}
-      clearcoatRoughness={0.3}
       {...props}
     />
   );
